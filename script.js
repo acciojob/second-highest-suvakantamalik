@@ -1,5 +1,6 @@
 //your JS code here. If required
 secondHighest(arr){
+	
 	if(arr.legneth < 2) return -Infinity;
 	let first = -Infinity;
 	let second = -Infinity;
